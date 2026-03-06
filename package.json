@@ -1,0 +1,15 @@
+{
+  "name": "mountsea-openai",
+  "version": "1.0.0",
+  "description": "Node.js SDK for OpenAI-compatible API - GPT-4, Claude, Gemini with one API via Mountsea AI.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": ["openai", "openai-api", "openai-compatible", "gpt-4", "gpt4", "claude", "gemini", "llm", "chat", "ai", "mountsea", "chatgpt"],
+  "author": "Mountsea AI <support@mountsea.ai>",
+  "license": "MIT",
+  "homepage": "https://shanhaiapi.com/zh/",
+  "repository": { "type": "git", "url": "https://github.com/mountsea-ai/openai-compatible-api" },
+  "engines": { "node": ">=14.0.0" },
+  "dependencies": {}
+}
+
